@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**jcepriano/jcepriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://github.com/jcepriano/jcepriano/assets/130601095/fc539e20-09f9-4dbe-b0a5-6eb65454c833)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on finishing school
 - 🌱 I’m currently learning about advanced MVC applications and calling APIs
