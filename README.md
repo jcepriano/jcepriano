@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on finishing school
 - 🌱 I’m currently learning about advanced MVC applications and calling APIs
 - 💬 Ask me about Launch at Turing School of Software & Design
-- 📫 How to reach me: https://www.linkedin.com/in/jamescepriano/
+- 📫 How to reach me: https://www.linkedin.com/in/jamescepriano/ || jamescepriano@gmail.com
