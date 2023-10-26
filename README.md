@@ -16,4 +16,6 @@ Feel free to connect with me and explore the projects I'm passionate about. Your
 - 🌱 I’m currently learning about advanced MVC applications and calling APIs
 - 💬 Ask me about Launch at Turing School of Software & Design
 
+## 📌 Pinned Repositories
+
 [![SceneSherpa](https://github-readme-stats.vercel.app/api/pin/?username=jcepriano&repo=SceneSherpa)](https://github.com/jcepriano/SceneSherpa)
