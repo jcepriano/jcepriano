@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/jcepriano/jcepriano/assets/130601095/fc539e20-09f9-4dbe-b0a5-6eb65454c833)
 
-👋 Hello, I'm James, a Back-end Developer driven by a profound enthusiasm for innovative problem-solving. My journey has led me to the Turing School of Software & Design, where I'm dedicated to honing my skills and knowledge.
+👋 Hello, I'm James, a Back-End Developer driven by a profound enthusiasm for innovative problem-solving. My journey has led me to the Turing School of Software & Design, where I'm dedicated to honing my skills and knowledge.
 
 💡 Proficient in advanced Model-View-Controller (MVC) concepts, I'm well-versed in the art of crafting robust APIs and leveraging a diverse array of development technologies. I'm not just learning; I'm constantly pushing my boundaries to refine my craft.
 
