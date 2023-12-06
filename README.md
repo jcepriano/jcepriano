@@ -18,4 +18,4 @@ Feel free to connect with me and explore the projects I'm passionate about. Your
 
 ## 📌 Pinned Repositories
 
-[![SceneSherpa](https://github-readme-stats.vercel.app/api/pin/?username=jcepriano&repo=SceneSherpa)](https://github.com/jcepriano/SceneSherpa)
+[![SceneSherpa](https://github-readme-stats.vercel.app/api/pin/?username=jcepriano&repo=SceneSherpa)](https://github.com/jcepriano/SceneSherpa) [![DevTask](https://github-readme-stats.vercel.app/api/pin/?username=jcepriano&repo=DevTask)](https://github.com/jcepriano/DevTask)
