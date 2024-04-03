@@ -12,7 +12,7 @@ Feel free to connect with me and explore the projects I'm passionate about. Your
 
 📫 How to reach me: https://www.linkedin.com/in/jamescepriano/ || jamescepriano@gmail.com
 
-- 🔭 I’m currently working creating a RESTful API
+- 🔭 I’m currently working on creating a RESTful API
 - 🌱 I’m currently learning about Python syntax
 - 💬 Ask me about Launch at Turing School of Software & Design
 
